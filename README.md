@@ -21,16 +21,13 @@ In this project, I focused on several critical areas:
      
 3. **Average Price Analysis**
    - Calculated the average price of each shoe category across different regions to identify pricing strategies and opportunities for optimization.
-     
-4. **Price Sensitivity**
-   - Investigated price distribution by country to assess how pricing impacts sales and customer behavior in various markets.
-     
-5. **Color Preference**
+        
+4. **Color Preference**
    - Analyzed consumer color preferences to guide product development and inventory management.
      
-6. **Best for Wear Preference**
+5. **Best for Wear Preference**
    - Explored customer preferences regarding shoe usage scenarios, enhancing product recommendations and marketing efforts.
    - 
-7. **Automation for Low Stock Detection & Report Generation**
+6. **Automation for Low Stock Detection & Report Generation**
    - Developed an automated system for detecting low stock levels and generating reports, streamlining inventory management processes.
 
